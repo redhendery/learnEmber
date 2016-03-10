@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# learnEmber
+learn Ember from http://yoember.com/
+>>>>>>> 2d3e41afb8f3ba36c187cf3307f531bef4f19543
