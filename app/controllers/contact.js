@@ -9,8 +9,8 @@ export default Ember.Controller.extend({
 
   actions: {
 
-    saveMessage() {
-      this.set('responseMessage', `Thank you! We will respond to you shortly! ${this.get('emailAddress')}`);
+    saveInvitation() {
+      this.set('responseMessage', `Thank you! We respond to you shortly! ${this.get('emailAddress')}`);
       this.set('emailAddress', '');
     }
   }
